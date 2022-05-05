@@ -1,0 +1,21 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "App",
+            "env": {
+                "PATH": "%PATH%;C:\\Users\\Rodri Lio A\\Desktop\\Universidad\\POO 1\\holaJavaFX\\bin",
+            },
+            "projectName": "holaJavaFX_dd5e793f",
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
